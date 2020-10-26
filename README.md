@@ -1,2 +1,2 @@
 # real-library
-A Web application using MongoDB, GraphQL, and React
+A Web application using MongoDB, ExpressJS, GraphQL, React, and NodeJS
